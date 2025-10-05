@@ -65,4 +65,5 @@ Keep the `.pkl` artifacts in the same directory as `app.py`.
 - Metrics printed in the notebook (accuracy, precision, recall, F1) reference the same train/test split; reruns with a different seed may vary slightly.
 
 ## License
-Add your preferred license (e.g., MIT) before publishing the repository.#
+Add your preferred license (e.g., MIT) before publishing the repository.
+
